@@ -1,0 +1,23 @@
+{
+  "name": "asprofessionalreadmegenerator",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asantidrian/ASProfessionalREADMEGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asantidrian/ASProfessionalREADMEGenerator/issues"
+  },
+  "homepage": "https://github.com/asantidrian/ASProfessionalREADMEGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
